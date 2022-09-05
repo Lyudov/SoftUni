@@ -1,7 +1,7 @@
 function negativeOrPositiveNumbers(arr) {
 
     let res = [];
-    for (el of arr) {
+    for (let el of arr) {
         el = Number(el);
         if (el < 0) {
             res.unshift(el);
