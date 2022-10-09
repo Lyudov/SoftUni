@@ -29,19 +29,19 @@ addAndSubtract(23, 6, 10);
 //  addAndSubtract(23, 6, 10);
 
 
-function addAndSubtract(firstNum, secondNum, thirdNum) {
+// function addAndSubtract(firstNum, secondNum, thirdNum) {
 
-    function add(numOne, numTwo) {
+//     function add(numOne, numTwo) {
 
-        return numOne + numTwo
-    }
-    let sum = add(firstNum, secondNum);
+//         return numOne + numTwo
+//     }
+//     let sum = add(firstNum, secondNum);
 
-    function subtract(sumTwoNums, numThree) {
-        return sumTwoNums - numThree;
-    }
-    console.log(subtract(sum, thirdNum));
-}
-addAndSubtract(23, 6, 10);
-addAndSubtract(1, 17, 30);
-addAndSubtract(42, 58, 100);
+//     function subtract(sumTwoNums, numThree) {
+//         return sumTwoNums - numThree;
+//     }
+//     console.log(subtract(sum, thirdNum));
+// }
+// addAndSubtract(23, 6, 10);
+// addAndSubtract(1, 17, 30);
+// addAndSubtract(42, 58, 100);
