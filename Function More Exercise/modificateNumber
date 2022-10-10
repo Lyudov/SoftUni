@@ -21,3 +21,22 @@ function numberModification(number) {
 }
 numberModification(5835)
 numberModification(101)
+
+//85/100 solution ---------------------------
+//function numberModification(num) { 
+
+  //  let numToString = num.toString()
+  //  let array = numToString.split('');
+  //  let sum = 0;
+
+   // for (let i = 0; i < array.length; i++) {
+     //   sum += Number(array[i]);
+      //  if (i + 1 == array.length && sum / array.length < 5) {
+        //    array.push('9')
+      //  } else if (sum / array.length > 5) {
+       //     console.log(array.join(''));
+     //   }
+  //  }
+//}
+//numberModification(5835);
+//numberModification(101);
