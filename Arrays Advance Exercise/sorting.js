@@ -25,3 +25,21 @@ function sorting(input) {
     console.log(res.join(' '));
 }
 sorting([1, 21, 3, 52, 69, 63, 31, 2, 18, 94]);
+
+// function sorting(array) {
+
+//     let sortedArray = array.map(Number).sort((a, b) => {
+//         return a - b
+//     });
+//     let newArray = [];
+//     for (let i = 0; i < sortedArray.length; i++) {
+//         let lastNum = sortedArray.pop()
+//         let firstNum = sortedArray.shift()
+//         newArray.push(lastNum)
+//         newArray.push(firstNum)
+//     }
+//     newArray.push(sortedArray.pop())
+//     newArray.push(sortedArray.shift())
+//     console.log(newArray.join(' '));
+// }
+// sorting([1, 21, 3, 52, 69, 63, 31, 2, 18, 94]);
