@@ -1,1 +1,1 @@
-# SoftUni-code
+Еxercises and exams in SoftUni.
