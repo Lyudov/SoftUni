@@ -1,0 +1,5 @@
+span:first-child,
+span:last-child {
+    color: white;
+    background-color: red;
+}
