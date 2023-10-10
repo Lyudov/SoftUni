@@ -1,0 +1,26 @@
+body {
+    background-color: #f9f7cf;
+    width: 480px;
+    padding: 5px 5px;
+}
+
+
+
+header {
+    background-color: #f2dcbb;
+    border-radius: 1px solid black;
+    margin: 10px;
+    padding: 5px 15px;
+}
+
+main {
+    margin: 10px;
+
+}
+
+footer {
+    background-color: #f2dcbb;
+    border-radius: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
